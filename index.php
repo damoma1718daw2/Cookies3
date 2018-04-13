@@ -12,5 +12,7 @@
         setcookie("curs", "2n", time()+3600, "/", "", 0); 
         setcookie("any", "2017­2018", time()+3600, "/", "", 0); 
         ?> 
+        
+        
     </body> 
 </html>

@@ -20,5 +20,6 @@ and open the template in the editor.
             setcookie("any", "2017­2018", time()+3600, "/", "", 0);            
         ?>  
 
+
     </body>
 </html>
